@@ -15,7 +15,7 @@ Este programa realiza la comunicación de usuarios de tal forma que es posible u
   que se desea acceder.
   </p>
   
-  <h2 align="left">¿Qué es IP?a</h2>
+  <h2 align="left">¿Qué es IP?</h2>
   
   Primero, IP es la abreviatura de las palabras en inglés Internet Protocol el cual es un protocolo encargado de establecer las comunicaciones de la mayoría de las redes, es una dirección única e irrepetible de cada dispositivo que trata de comunicarse a internet. 
   Todo dispositivo que se comunique con otro debe de tener una dirección IP, ese es su dirección numérica asignado para comunicarse con otros dispositivos. 
