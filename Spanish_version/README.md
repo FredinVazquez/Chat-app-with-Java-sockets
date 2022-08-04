@@ -5,7 +5,7 @@ Este programa realiza la comunicación de usuarios de tal forma que es posible u
 </p>
 
 <div>
-  <img src="./Images/s1.jpg">
+  <img src="../Images/s1.jpg">
   
   <br>
   
